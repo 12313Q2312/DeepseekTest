@@ -1,0 +1,8 @@
+build/
+dist/
+cmake-build-*/
+.env
+.env.*
+*.exe
+*.dll
+*.log
